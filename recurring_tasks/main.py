@@ -90,7 +90,7 @@ if __name__ == '__main__':
     # Use list_databases.py to get the id of your database
     # Your database should look like this: https://safelyy.notion.site/f1f5071d8d2a47aa9ddc02b8aad3f6bc
     # You can duplicate it, create one manually or try to create one with the API. See create_database.py for an example!
-    database_id = 'TODO'
+    database_id = 'd6bd9daf1d9c4c7190c9690055fe84f9'
 
     post_task(database_id)
 
